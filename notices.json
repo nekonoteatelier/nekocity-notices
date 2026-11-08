@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "notices": []
+  "notices": [
+    {
+      "id": "news_1794099167492_ti27el",
+      "title": "テスト",
+      "body": "これはテスト配信用のお知らせですにゃ",
+      "date": "2026-11-08",
+      "important": true
+    }
+  ]
 }
